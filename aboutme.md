@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Akaash Patel
+permalink: /
+redirect_from:
+  - /about
 ---
 ### Education
 
